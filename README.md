@@ -1,14 +1,247 @@
-# 💫 About Me:
-🔭 I’m currently working on Ghotul<br><br>🌱 I’m currently learning Advanced MERN Stack Development, System Design, Basics React Native (Mobile App Development), Backend Optimization & Security<br><br>👯 I’m looking to collaborate on Full Stack Web Development Projects (MERN / React-based apps)<br><br>🤝 I’m looking for help with Scaling & Deployment of Full Stack Applications (DevOps, Performance Optimization)<br><br>👨‍💻 All of my projects are available at https://prayagsahu.vercel.app<br><br>💬 Ask me about React, JavaScript, Frontend Design, Full Stack Development<br><br>📫 How to reach me sahuprayag229@gmail.com<br><br>⚡ Fun fact I build real-world projects while learning — not just tutorials, I focus more on practical implementation than theory, Turning ideas into working products is my favorite thing
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&lines=Prayag+Sahu+%E2%80%94+Full+Stack+Developer;MERN+Stack+%7C+React+%7C+Node.js;Building+Real-World+Production+Apps;Final+Year+CSE+%40+RGPV+University;Open+to+Roles%2C+Internships+%26+Hackathons" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/prayag-sahu29/">
+  <img src="https://img.shields.io/badge/LinkedIn-Prayag%20Sahu-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:sahuprayag229@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sahuprayag229@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://prayagsahu.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-prayagsahu.vercel.app-00C7B7?style=flat-square&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=prayag29-sahu&style=flat-square&color=58A6FF&label=Profile+Views" />
+
+</div>
+
+---
+
+## About Me
+
+Final-year B.Tech CSE student at **RGPV University, Indore** with production internship experience at two organizations, a NASSCOM-approved MERN Stack certification, and a **Silver + Elite Top 5% distinction from IIT Kharagpur (NPTEL DBMS)**. I build and ship full-stack applications that solve real business problems — not just tutorial clones.
+
+<p><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer%20(MERN)-58A6FF?style=flat-square&logo=stackshare&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/University-RGPV%20University-0055A4?style=flat-square&logo=academia&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/NPTEL-IIT%20Kharagpur%20%7C%20Top%205%25-FF6C00?style=flat-square&logo=academia&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C853?style=flat-square&logo=checkmarx&logoColor=white" /></p>
+
+---
+
+## Career Timeline
+
+```mermaid
+timeline
+    title Prayag Sahu — Career Highlights
+    2023 : Best Student Award — School (Sincerity & Conduct)
+         : FreeCodeCamp Responsive Web Design Certified
+    2024 : BRAHMAX 1.0 — 24 Hour Hackathon Participant
+         : Smart India Hackathon Participant
+    2025 : Full Stack Developer Intern — Ghotul Homestays
+         : Launched ghotulstays.com (Production Deployment)
+         : NPTEL DBMS — Silver + Elite, Top 5%, IIT Kharagpur
+    2026 : MERN Stack Intern — NASSCOM Approved Certification
+         : 60 Hours Pre-Placement Training (3P) — TITANS Nagpur
+         : Final Year — Seeking Full Stack Developer Roles
+```
+
+---
+
+## Internship Experience
+
+<table width="100%">
+<tr>
+<td>
+
+**Full Stack Developer Intern — Ghotul Homestays** &nbsp;|&nbsp; 6 Months &nbsp;|&nbsp; 2025 &nbsp;|&nbsp; [ghotulstays.com](https://ghotulstays.com)
+
+Engineered a complete hospitality management platform from scratch, replacing 100% of the business's manual operations with a live, production-grade digital system.
+
+- Room booking system with real-time availability management
+- Staff management portal with role-based access control
+- Owner analytics dashboard for business intelligence
+- Razorpay payment gateway with end-to-end secure transaction flow
+- JWT authentication & authorization for access security
+- Deployed on Hostinger VPS — full production infrastructure
+
+**Impact:** Eliminated manual reservation tracking and enabled online bookings for real guests on a live domain.
+
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF" />
+<img src="https://img.shields.io/badge/Hostinger_VPS-673DE6?style=flat-square&logo=hostinger&logoColor=white" />
+
+</td>
+</tr>
+<tr>
+<td>
+
+**MERN Stack Developer Intern** &nbsp;|&nbsp; 2026 &nbsp;|&nbsp; NASSCOM-Approved Certification
+
+Completed a structured MERN Stack internship program certified by NASSCOM, reinforcing end-to-end full stack development practices across MongoDB, Express, React, and Node.js.
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/NASSCOM-Certified-0055A4?style=flat-square&logo=academia&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tech Stack
+
+**Languages**
+
+<p><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /></p>
+
+**Frontend**
+
+<p><img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /></p>
+
+**Backend**
+
+<p><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" /></p>
+
+**Databases**
+
+<p><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /></p>
+
+**Tools & Platforms**
+
+<p><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/Hostinger_VPS-673DE6?style=flat-square&logo=hostinger&logoColor=white" /> <img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF" /></p>
+
+**Currently Learning**
+
+<p><img src="https://img.shields.io/badge/System_Design-58A6FF?style=flat-square&logo=blueprint&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Backend_Security-FF0000?style=flat-square&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/DevOps_&_Scaling-0A66C2?style=flat-square&logo=azuredevops&logoColor=white" /></p>
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Ghotul — Hospitality Booking Platform
+
+Production-grade full-stack booking and management system built for a real hospitality business. Handles room reservations, staff operations, Razorpay payments, and owner analytics — live and serving real users.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=3395FF" />
+
+<br/>
+
+[![Live Site](https://img.shields.io/badge/Live-ghotulstays.com-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://ghotulstays.com)
+&nbsp;
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prayag29-sahu)
+
+</td>
+<td width="50%" valign="top">
+
+### DSA — Data Structures & Algorithms (C++)
+
+A structured, topic-wise C++ learning journal built from scratch — not copied from tutorials. Covers core CS fundamentals needed for technical interviews and competitive programming.
+
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+
+**Topics:** Arrays · Linked Lists · Stacks & Queues · Trees & Graphs · Sorting & Searching · Recursion & Backtracking
+
+<br/>
+
+[![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prayag29-sahu/DSA)
+
+</td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
 
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahuprayag229@gmail.com) 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prayag29-sahu&theme=tokyonight&hide_border=true" height="165" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats: 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=prayag29-sahu&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prayag29-sahu&" alt="prayag29-sahu" /></p>
+</div>
+
+---
+
+## Achievements & Certifications
+
+| Year | Type | Detail |
+|------|------|--------|
+| 2026 | **Internship** | MERN Stack Internship — NASSCOM-Approved Certification |
+| 2026 | **Certification** | 60 Hours Pre-Placement Training (3P) — TITANS Nagpur |
+| 2025 | **Internship** | Full Stack Development Internship Certificate — Ghotul Homestays |
+| 2025 | **Academic** | Silver + Elite, Top 5% — NPTEL DBMS, IIT Kharagpur |
+| 2024 | **Hackathon** | BRAHMAX 1.0 — 24 Hour Hackathon Participant |
+| 2024 | **Hackathon** | Smart India Hackathon Participant |
+| 2023 | **Certification** | FreeCodeCamp Responsive Web Design |
+| 2023 | **Award** | Best Student — School Award for Sincerity & Conduct |
+
+---
+
+## Education
+
+**B.Tech — Computer Science & Engineering**
+RGPV University, Madhya Pradesh &nbsp;|&nbsp; Final Year (2022 – 2026)
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/prayag-sahu29/">
+  <img src="https://img.shields.io/badge/LinkedIn-Prayag%20Sahu-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://prayagsahu.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-prayagsahu.vercel.app-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:sahuprayag229@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-sahuprayag229@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+> **Open to:** Full Stack Developer roles &nbsp;·&nbsp; MERN Internships &nbsp;·&nbsp; Hackathon teams &nbsp;·&nbsp; Freelance collaborations
+>
+> **Ask me about:** React, Node.js, MERN Stack, Full Stack Architecture, Payment Gateway Integration
+>
+> **Looking for help with:** DevOps, Application Scaling & Performance Optimization
+
+---
+
+## A Note on My Approach
+
+I build real-world products while learning — not just tutorials. My focus is practical implementation over theory. If I have an idea, I ship it. The Ghotul platform is not a portfolio piece — it is a live system that a real business depends on every day.
+
+---
+
+<div align="center">
+
+*— let's build something great together.*
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-Full%20Stack%20Developer-00C853?style=for-the-badge&logo=checkmarx&logoColor=white" />
+
+**[sahuprayag229@gmail.com](mailto:sahuprayag229@gmail.com) &nbsp;·&nbsp; [prayagsahu.vercel.app](https://prayagsahu.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/prayag-sahu29/)**
+
+</div>
