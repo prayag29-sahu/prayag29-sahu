@@ -24,7 +24,7 @@
 
 ## About Me
 
-Final-year B.Tech CSE student at **RGPV University, Indore** with production internship experience at two organizations, a NASSCOM-approved MERN Stack certification, and a **Silver + Elite Top 5% distinction from IIT Kharagpur (NPTEL DBMS)**. I build and ship full-stack applications that solve real business problems — not just tutorial clones.
+3rd-year B.Tech CSE student at **RGPV University, Bhopal** with production internship experience at two organizations, a NASSCOM-approved MERN Stack certification, and a **Silver + Elite Top 5% distinction from IIT Kharagpur (NPTEL DBMS)**. I build and ship full-stack applications that solve real business problems — not just tutorial clones.
 
 <p><img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer%20(MERN)-58A6FF?style=flat-square&logo=stackshare&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/University-RGPV%20University-0055A4?style=flat-square&logo=academia&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/NPTEL-IIT%20Kharagpur%20%7C%20Top%205%25-FF6C00?style=flat-square&logo=academia&logoColor=white" /> &nbsp; <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-00C853?style=flat-square&logo=checkmarx&logoColor=white" /></p>
 
@@ -198,7 +198,7 @@ A structured, topic-wise C++ learning journal built from scratch — not copied 
 ## Education
 
 **B.Tech — Computer Science & Engineering**
-RGPV University, Madhya Pradesh &nbsp;|&nbsp; Final Year (2022 – 2026)
+RGPV University, Madhya Pradesh &nbsp;|&nbsp; 3rd Year (2023 – 2027)
 
 ---
 
