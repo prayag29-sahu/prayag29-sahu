@@ -99,6 +99,8 @@ Took a business that ran entirely on manual reservation tracking and replaced it
 
 Completed a structured MERN Stack internship program certified by NASSCOM — covering end-to-end full-stack development practices, modern React patterns, RESTful API design, and MongoDB-based data modeling.
 
+[![Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Pranjalpatel07/Stock-app)
+
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -154,6 +156,7 @@ Completed a structured MERN Stack internship program certified by NASSCOM — co
 **Tools & Platforms**
 
 <p>
+<img src="https://img.shields.io/badge/C++_Graphics-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
@@ -199,7 +202,7 @@ A full-stack booking and operations system built for a real hospitality business
 <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/VPS-673DE6?style=flat-square&logo=hostinger&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 [![Live Site](https://img.shields.io/badge/Live-ghotulstays.com-00C7B7?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://ghotulstays.com)
 &nbsp;
@@ -216,16 +219,32 @@ A structured, topic-wise problem-solving journal in C++ — built from scratch, 
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 
-<br/><br/>
+<br/>
 
 [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prayag29-sahu/DSA-Challenge-2026)
 
-<br/><br/>
+<br/>
 
 </td>
 </tr>
 
 </table>
+
+---
+
+### P.S. Shivay
+
+My first website project built using pure HTML and CSS. This project marked the beginning of my frontend development journey where I learned how to structure webpages, tags, links, handle frontend interactions, debug issues manually, and deploy a live website using GitHub Pages. It may not be perfect, but it represents the point where I implement my learning and started actually building.  
+
+ [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prayag29-sahu/Shivay) &nbsp;|&nbsp; [![Live Site](https://img.shields.io/badge/Live-ghotulstays.com-00C7B7?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://prayag-sahu.github.io/www.P.S.shivay.com)
+
+---
+
+### C++ Graphics Experiments
+
+A collection of sketches and graphical experiments created using C++ Graphics in Turbo C. This project includes manually designed artwork such as Lord Buddha and Srinivasa Ramanujan portraits built using arc lines, mathematical plotting, and low-level graphics concepts. It helped me understand how computer graphics work at a fundamental level beyond modern libraries and frameworks.
+
+ [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prayag29-sahu/C_Graphics) 
 
 ---
 
@@ -284,7 +303,7 @@ I care more about building useful systems that actually work in the real world t
 ## Education
 
 **B.Tech — Computer Science & Engineering**
-RGPV University, Madhya Pradesh &nbsp;|&nbsp; 2023 – 2027 &nbsp;|&nbsp; CGPA: 8.35 / 10
+RGPV University, Madhya Pradesh &nbsp;|&nbsp; 2023 – 2027 &nbsp;|&nbsp; 6th Sem &nbsp;|&nbsp; CGPA: 8.35 / 10
 
 ---
 
