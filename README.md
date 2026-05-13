@@ -19,7 +19,7 @@
 
 ## About Me
 
-I'm a 3rd-year B.Tech CSE student at **RGPV University, Bhopal** who builds full-stack web applications that run in production — not just on localhost.
+I'm a 3rd-year B.Tech CSE student at **RGPV University** who builds full-stack web applications that run in production, not just on localhost.
 
 My most significant work is **[ghotulstays.com](https://ghotulstays.com)** — a hospitality management platform I architected and deployed solo during my internship at Ghotul Homestays. Real guests book rooms, real payments process through Razorpay, and a real business runs its daily operations on code I wrote. That's the standard I hold my work to.
 
