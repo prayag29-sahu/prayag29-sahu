@@ -260,12 +260,6 @@ I care more about building useful systems that actually work in the real world t
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prayag29-sahu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prayag29-sahu&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=prayag29-sahu&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
@@ -323,6 +317,6 @@ RGPV University, Madhya Pradesh &nbsp;|&nbsp; 2023 – 2027 &nbsp;|&nbsp; CGPA: 
 
 <br/>
 
-**[sahuprayag229@gmail.com](mailto:sahuprayag229@gmail.com) &nbsp;·&nbsp; [prayagsahu.vercel.app](https://prayagsahu.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/prayag-sahu29/) &nbsp;·&nbsp; [ghotulstays.com](https://ghotulstays.com)**
+**[sahuprayag229@gmail.com](mailto:sahuprayag229@gmail.com) &nbsp;·&nbsp; [prayagsahu.vercel.app](https://prayagsahu.vercel.app) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/prayag-sahu29/)**
 
 </div>
