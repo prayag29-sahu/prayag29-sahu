@@ -260,15 +260,15 @@ Some of those projects include:
 
 - **The Light Room** — A photographer portfolio platform built for my brother to showcase his work professionally.
   
-  [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prayag29-sahu/DSA-Challenge-2026) &nbsp;|&nbsp; [![Live Site](https://img.shields.io/badge/Live-ghotulstays.com-00C7B7?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://ghotulstays.com)
+  [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prayag29-sahu/Claude.ai-) &nbsp;|&nbsp; [![Live Site](https://img.shields.io/badge/Live-ghotulstays.com-00C7B7?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://ghotulstays.com)
 
 - **Sachin Men's Parlor** — A barber appointment booking web application designed for a local men's salon to manage customer bookings efficiently.
   
-  [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prayag29-sahu/DSA-Challenge-2026) &nbsp;|&nbsp; [![Live Site](https://img.shields.io/badge/Live-ghotulstays.com-00C7B7?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://ghotulstays.com)
+  [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prayag29-sahu/Claude.ai-) &nbsp;|&nbsp; [![Live Site](https://img.shields.io/badge/Live-ghotulstays.com-00C7B7?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://ghotulstays.com)
 
 - **Shopsy** — An online clothing store for boys and girls with product browsing and shopping functionality.
   
-  [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prayag29-sahu/DSA-Challenge-2026) &nbsp;|&nbsp; [![Live Site](https://img.shields.io/badge/Live-ghotulstays.com-00C7B7?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://ghotulstays.com)
+  [![Repo](https://img.shields.io/badge/GitHub-View_Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prayag29-sahu/Claude.ai-) &nbsp;|&nbsp; [![Live Site](https://img.shields.io/badge/Live-ghotulstays.com-00C7B7?style=flat-square&logo=firefoxbrowser&logoColor=white)](https://ghotulstays.com)
 
 I care more about building useful systems that actually work in the real world than building projects just to fill a portfolio.
 
